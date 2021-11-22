@@ -1,0 +1,33 @@
+table,th,tr,td{
+    border: 2px solid black;
+    
+}
+   
+
+table{
+    width: 100%;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
+
+a:link{
+
+    background-color: crimson;
+    color:white;
+    padding:5px;
+    margin:10px;
+    border: 1px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover{
+
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+a:visited{}
+
+a:active{}
